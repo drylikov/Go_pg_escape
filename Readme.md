@@ -17,4 +17,3 @@ exp := `SELECT "some stuff" FROM "some table" WHERE "some column"='some value'`
 assert.Equal(t, exp, s)
 ```
 
-
